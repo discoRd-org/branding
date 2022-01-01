@@ -7,7 +7,7 @@ You can join our Discord server by going to https://discord.gg/eMUVpnFCDC or by 
 
 If you'd like to link to us, one possible description you could use is below:
 
-> **Python Discord**
+> **R Discord**
 > 
 > We're a large, friendly community focused around the `R` programming language. We're a friendly and dedicated community for R enthusiasts, programmers, statisticians, data scientists, students, or anyone interested in learning the language. 
 > 
