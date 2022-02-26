@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.90583672"
-     inkscape:cx="699.90539"
-     inkscape:cy="1913.7003"
+     inkscape:zoom="3.6233469"
+     inkscape:cx="827.13582"
+     inkscape:cy="1940.8851"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1912"
@@ -672,7 +672,7 @@
        xlink:href="#gradientFill-2"
        id="linearGradient15455"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13775704,0,0,0.14056895,164.65665,464.61371)"
+       gradientTransform="matrix(0.13775704,0,0,0.14056895,164.7099,464.58571)"
        x1="301.02603"
        y1="151.40061"
        x2="703.06751"
@@ -683,7 +683,7 @@
        xlink:href="#gradientFill-2"
        id="linearGradient15457"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13775748,0,0,0.14057207,164.65701,464.61315)"
+       gradientTransform="matrix(0.13800919,0,0,0.14082893,164.58228,464.52263)"
        x1="301.02603"
        y1="151.40061"
        x2="703.06751"
@@ -693,7 +693,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <image
        width="135.46666"
        height="135.46666"
@@ -1029,34 +1030,38 @@
        id="image15436"
        x="163.16411"
        y="446.42023"
-       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine2.png"
+       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine3.png"
        inkscape:export-xdpi="800"
        inkscape:export-ydpi="800" />
     <path
-       d="m 241.193,517.07611 c 0,0 3.03667,0.91635 4.80089,1.80907 0.61215,0.30977 1.67127,0.9279 2.43524,1.73946 0.74838,0.79488 1.11325,1.60035 1.11325,1.60035 l 11.96745,20.17805 -19.34273,0.009 -9.04516,-16.98603 c 0,0 -1.85217,-3.18244 -2.99187,-4.1052 -0.9507,-0.76968 -1.35607,-1.04368 -2.29608,-1.04368 -0.6543,0 -4.59578,0 -4.59578,0 l 0.003,22.12265 -17.11624,0.006 v -56.51055 h 34.37162 c 0,0 15.65509,0.28234 15.65509,15.17695 0,14.8946 -14.9593,16.00328 -14.9593,16.00328 z m -7.44485,-18.92229 -10.36202,-0.006 -0.004,9.60892 10.36716,-0.003 c 0,0 4.80088,-0.0153 4.80088,-4.88796 0,-4.97103 -4.80088,-4.71095 -4.80088,-4.71095 z"
+       d="m 241.25812,517.08145 c 0,0 3.04222,0.91802 4.80966,1.81237 0.61327,0.31034 1.67433,0.92961 2.43968,1.74265 0.74976,0.79633 1.11529,1.60327 1.11529,1.60327 l 11.98932,20.21491 -19.37808,0.009 -9.06168,-17.01707 c 0,0 -1.85555,-3.18825 -2.99733,-4.11271 -0.95245,-0.77108 -1.35855,-1.04558 -2.30028,-1.04558 -0.6555,0 -4.60418,0 -4.60418,0 l 0.003,22.16307 -17.14752,0.006 v -56.61382 h 34.43442 c 0,0 15.6837,0.28286 15.6837,15.20468 0,14.92182 -14.98663,16.03252 -14.98663,16.03252 z m -7.45845,-18.95687 -10.38097,-0.006 -0.004,9.62647 10.38611,-0.003 c 0,0 4.80965,-0.0153 4.80965,-4.8969 0,-4.98011 -4.80965,-4.71955 -4.80965,-4.71955 z"
        fill="url(#gradientFill-2)"
        fill-rule="evenodd"
        id="path15087"
-       style="fill:url(#linearGradient15457);stroke:none;stroke-width:1.13589;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:url(#linearGradient15457);stroke:none;stroke-width:1.13797;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine3.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
     <path
        id="path15438"
        d="m 112.78393,394.93018 -40.995237,23.6686 a 4.8061406,4.8061406 180 0 1 -4.806138,0 l -40.995239,-23.6686 a 4.806136,4.806136 59.999992 0 1 -2.403069,-4.16223 v -47.33724 a 4.8061387,4.8061387 119.99999 0 1 2.403068,-4.16223 l 40.995241,-23.66863 a 4.8061352,4.8061352 2.7084189e-7 0 1 4.806136,0 l 40.995238,23.66863 a 4.8061387,4.8061387 60.000006 0 1 2.40307,4.16223 l 0,47.33724 a 4.806136,4.806136 120.00001 0 1 -2.40307,4.16223 z"
-       style="fill:#ffffff;stroke:none;stroke-width:1.77092;stroke-miterlimit:7.1;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter13998)"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:1.77092;stroke-miterlimit:7.1;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter13998)"
        inkscape:path-effect="#path-effect15442;#path-effect15446"
        inkscape:original-d="M 115.187,393.54277 69.385624,419.98619 23.584247,393.54277 V 340.65589 L 69.385624,314.21244 115.187,340.65589 Z"
        clip-path="url(#clipath_lpe_path-effect15446)"
        transform="matrix(1.0475313,0,0,1.0475313,158.21383,129.60553)"
-       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine2.png"
+       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine3.png"
        inkscape:export-xdpi="800"
        inkscape:export-ydpi="800" />
     <path
-       d="m 241.19238,517.07546 c 0,0 3.03666,0.91633 4.80088,1.80903 0.61215,0.30976 1.67125,0.92788 2.43523,1.73943 0.74838,0.79486 1.11325,1.60031 1.11325,1.60031 l 11.9674,20.1776 -19.34266,0.009 -9.04512,-16.98566 c 0,0 -1.85218,-3.18237 -2.99187,-4.10509 -0.95071,-0.76967 -1.35607,-1.04368 -2.29607,-1.04368 -0.6543,0 -4.59577,0 -4.59577,0 l 0.003,22.12217 -17.11618,0.006 v -56.50941 h 34.3715 c 0,0 15.65504,0.28234 15.65504,15.17661 0,14.89428 -14.95923,16.00293 -14.95923,16.00293 z m -7.44482,-18.92186 -10.36199,-0.006 -0.004,9.60872 10.36713,-0.003 c 0,0 4.80087,-0.0153 4.80087,-4.88783 0,-4.97093 -4.80087,-4.71085 -4.80087,-4.71085 z"
+       d="m 241.24563,517.04746 c 0,0 3.03666,0.91633 4.80088,1.80903 0.61215,0.30976 1.67125,0.92788 2.43523,1.73943 0.74838,0.79486 1.11325,1.60031 1.11325,1.60031 l 11.9674,20.1776 -19.34266,0.009 -9.04512,-16.98566 c 0,0 -1.85218,-3.18237 -2.99187,-4.10509 -0.95071,-0.76967 -1.35607,-1.04368 -2.29607,-1.04368 -0.6543,0 -4.59577,0 -4.59577,0 l 0.003,22.12217 -17.11618,0.006 v -56.50941 h 34.3715 c 0,0 15.65504,0.28234 15.65504,15.17661 0,14.89428 -14.95923,16.00293 -14.95923,16.00293 z m -7.44482,-18.92186 -10.36199,-0.006 -0.004,9.60872 10.36713,-0.003 c 0,0 4.80087,-0.0153 4.80087,-4.88783 0,-4.97093 -4.80087,-4.71085 -4.80087,-4.71085 z"
        fill="url(#gradientFill-2)"
        fill-rule="evenodd"
        id="path15448"
-       style="fill:url(#linearGradient15455);stroke:none;stroke-width:1.13587;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter14317)"
-       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine2.png"
+       style="display:inline;fill:url(#linearGradient15455);stroke:none;stroke-width:1.13587;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter14317)"
+       inkscape:export-filename="D:\OneDrive\OneDrive - Universiteit Antwerpen\Personal\Inkscape\discoRd\output\ukRaine3.png"
        inkscape:export-xdpi="800"
-       inkscape:export-ydpi="800" />
+       inkscape:export-ydpi="800"
+       transform="matrix(1.0017483,0,0,1.0017329,-0.41138802,-0.862482)" />
   </g>
 </svg>
